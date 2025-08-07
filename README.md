@@ -13,7 +13,6 @@ A full-stack web application that helps users **track, measure, and showcase the
 - [API Documentation](#api-documentation)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
