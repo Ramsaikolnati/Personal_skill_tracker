@@ -2,7 +2,7 @@
 
 A personal productivity and performance tracking tool to help developers monitor and grow their skills consistently. This full-stack project allows users to log skill-based goals, track learning progress, and analyze growth over time.
 
-Built from scratch with modern technologies: **FastAPI**, **PostgreSQL**, **React (Next.js)**, **Docker**, **Celery**, and more — deployed securely with **Traefik**, **Let’s Encrypt**, and **GitHub Actions**.
+Built from scratch with modern technologies: **FastAPI**, **PostgreSQL**, **React (Next.js)**, **Docker**, **Celery**, and more — deployed securely with **Let’s Encrypt**, and **GitHub Actions**.
 
 ---
 
